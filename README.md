@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luis Perez</h1>
+<h1 align="center">Hi, I'm Luis Perez</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles</h3>
 
 - 🔭 I’m currently working on [Project Portfolio](https://luisp6914.github.io/vite-react-deploy/)
 
-- 🌱 I’m currently enhancing my skills in **React, Python, Java, HTML, CSS, JavaScript, and other programming languages.**
+- 🌱 I’m enhancing my skills in **React, Python, Java, HTML, CSS, JavaScript, and other programming languages.**
 
 - 📫 How to reach me **luisp6914@gmail.com**
 
